@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("UnityVersionLauncher")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Unity Version Launcher")]
+[assembly: AssemblyDescription("Launcher to choose which of your installed Unity versions to launch")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Invertex Inc")]
 [assembly: AssemblyProduct("UnityVersionLauncher")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
